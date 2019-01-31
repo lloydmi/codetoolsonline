@@ -1,7 +1,7 @@
 # Xml to Json
 Convert an XML string into a JSON object using desired configurations, sorting and filtering. 
 
-![Xml to Json](../images/xml-to-json/xml_to_json.jpg?raw=true) 
+![Xml to Json](../images/xml_to_json.jpg?raw=true) 
 
 ### Convert JSON to Camel Case
 When selected, it will convert the property name from the XML element into a Camel Cased JSON object property.
